@@ -44,12 +44,12 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Lannquist, Ashley
 - [X] Lee, Gene
 - [X] Leung, Connie
-- [ ] Li, Bo
+- [X] Li, Bo
 - [X] Locatelli, Federico :sunglasses::sunglasses:
 - [X] Luck, Claudia :sparkles:
 - [ ] Macuco, Greg
 - [X] Mao, Biyu
-- [X] Mitteldorf, Alex :sunrise_over_mountains:
+- [ ] Mitteldorf, Alex
 - [X] Murphy, Kelly :rocket::champagne::rocket:
 - [X] Okorn, Atim :rocket:
 - [X] Orard, Antoine
